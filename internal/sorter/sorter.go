@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/operations"
+	"github.com/GhostOfAstana/swap-sort/internal/operations"
 )
 
 type Result struct {

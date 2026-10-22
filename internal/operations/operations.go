@@ -4,7 +4,7 @@ package operations
 import (
 	"fmt"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/stack"
+	"github.com/GhostOfAstana/swap-sort/internal/stack"
 )
 
 var Names = [...]string{"pa", "pb", "sa", "sb", "ss", "ra", "rb", "rr", "rra", "rrb", "rrr"}

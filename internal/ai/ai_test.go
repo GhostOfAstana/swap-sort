@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/sorter"
+	"github.com/GhostOfAstana/swap-sort/internal/sorter"
 )
 
 type roundTrip func(*http.Request) (*http.Response, error)

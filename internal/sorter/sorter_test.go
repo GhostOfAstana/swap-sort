@@ -11,7 +11,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/operations"
+	"github.com/GhostOfAstana/swap-sort/internal/operations"
 )
 
 // This slice-based interpreter is intentionally independent of the production

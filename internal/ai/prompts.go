@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/sorter"
+	"github.com/GhostOfAstana/swap-sort/internal/sorter"
 )
 
 const systemPrompt = `You are an educational push-swap coach. The supplied input,

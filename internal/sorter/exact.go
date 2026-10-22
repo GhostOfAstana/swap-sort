@@ -3,7 +3,7 @@ package sorter
 import (
 	"sync"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/operations"
+	"github.com/GhostOfAstana/swap-sort/internal/operations"
 )
 
 // A state key stores A's length, then A followed by B. Ranks fit in one byte.

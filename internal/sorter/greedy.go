@@ -1,6 +1,6 @@
 package sorter
 
-import "github.com/ernat-soltanbekov/swap-sort/internal/stack"
+import "github.com/GhostOfAstana/swap-sort/internal/stack"
 
 // greedy keeps B circularly descending while taking elements from A. It then
 // merges B into circularly ascending A and turns A until its minimum is on top.

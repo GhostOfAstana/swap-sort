@@ -8,8 +8,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/operations"
-	"github.com/ernat-soltanbekov/swap-sort/internal/sorter"
+	"github.com/GhostOfAstana/swap-sort/internal/operations"
+	"github.com/GhostOfAstana/swap-sort/internal/sorter"
 )
 
 // Keeping full traces and prompts bounded is separate from sorting capacity.

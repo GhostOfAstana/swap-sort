@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/ai"
+	"github.com/GhostOfAstana/swap-sort/internal/ai"
 )
 
 type forbiddenReader struct{}

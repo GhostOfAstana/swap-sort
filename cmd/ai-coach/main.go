@@ -5,8 +5,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/ai"
-	"github.com/ernat-soltanbekov/swap-sort/internal/cli"
+	"github.com/GhostOfAstana/swap-sort/internal/ai"
+	"github.com/GhostOfAstana/swap-sort/internal/cli"
 )
 
 func main() {

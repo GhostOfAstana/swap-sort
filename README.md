@@ -1,6 +1,6 @@
 # swap-sort
 
-[![Audit](https://github.com/ernat-soltanbekov/swap-sort/actions/workflows/ci.yml/badge.svg)](https://github.com/ernat-soltanbekov/swap-sort/actions/workflows/ci.yml)
+[![Audit](https://github.com/GhostOfAstana/swap-sort/actions/workflows/ci.yml/badge.svg)](https://github.com/GhostOfAstana/swap-sort/actions/workflows/ci.yml)
 
 **Два стека. Одиннадцать команд. Проверяемый результат.**
 
@@ -9,7 +9,7 @@
 `ai-coach` объясняет фактически полученное решение. Только стандартная библиотека;
 для запуска не нужны аккаунт, API-ключ или установленная языковая модель.
 
-Автор — **Yernat «GhostOfAstana» Soltanbekov**: студент Tomorrow School с техническим
+Автор — **[Ернат Солтанбеков (Yernat Soltanbekov)](https://github.com/GhostOfAstana)**: студент Tomorrow School с техническим
 образованием и военным прошлым. Ежеутренняя практика боевых искусств с 2008 года
 задаёт подход к проекту: повторяемость, точность и проверка результата под нагрузкой.
 Профессиональная цель — работа в команде Astana Hub МИИЦР РК.
@@ -20,7 +20,7 @@
 На Linux и macOS всё проверяется в GitHub Actions.
 
 ```sh
-git clone https://github.com/ernat-soltanbekov/swap-sort.git
+git clone https://github.com/GhostOfAstana/swap-sort.git
 cd swap-sort
 make
 

@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ernat-soltanbekov/swap-sort/internal/ai"
-	"github.com/ernat-soltanbekov/swap-sort/internal/operations"
-	"github.com/ernat-soltanbekov/swap-sort/internal/parser"
-	"github.com/ernat-soltanbekov/swap-sort/internal/sorter"
+	"github.com/GhostOfAstana/swap-sort/internal/ai"
+	"github.com/GhostOfAstana/swap-sort/internal/operations"
+	"github.com/GhostOfAstana/swap-sort/internal/parser"
+	"github.com/GhostOfAstana/swap-sort/internal/sorter"
 )
 
 func failure(stderr io.Writer) int { fmt.Fprintln(stderr, "Error"); return 1 }
